@@ -12,7 +12,7 @@ import java.util.Properties;
  * 生成验证码配置
  *
  * @author lzl
- * @email 931708230@qq.com
+ * @email 1556708905@qq.com
  */
 @Configuration
 public class KaptchaConfig {

@@ -7,7 +7,7 @@ import java.util.Date;
  * 会员
  * 
  * @author lzl
- * @email 931708230@qq.com
+ * @email 1556708905@qq.com
  */
 public class MemberEntity implements Serializable {
 	private static final long serialVersionUID = 1L;

@@ -7,7 +7,7 @@ import java.util.Date;
  * 分类
  * 
  * @author lzl
- * @email 931708230@qq.com
+ * @email 1556708905@qq.com
  */
 public class CategoryEntity implements Serializable {
 	private static final long serialVersionUID = 1L;

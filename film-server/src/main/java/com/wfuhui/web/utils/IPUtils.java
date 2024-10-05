@@ -11,7 +11,7 @@ import com.alibaba.druid.util.StringUtils;
  * IP地址
  * 
  * @author wfuhui
- * @email 931708230@qq.com
+ * @email 1556708905@qq.com
  */
 public class IPUtils {
 	private static Logger logger = LoggerFactory.getLogger(IPUtils.class);

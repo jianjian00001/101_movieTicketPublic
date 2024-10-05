@@ -9,7 +9,7 @@ import com.wfuhui.modules.movie.entity.CategoryEntity;
  * 分类
  * 
  * @author lzl
- * @email 931708230@qq.com
+ * @email 1556708905@qq.com
  * @date 2017-07-14 13:43:12
  */
 public interface CategoryService {

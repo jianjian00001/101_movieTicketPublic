@@ -23,7 +23,7 @@ import com.wfuhui.common.utils.R;
  * 场次
  * 
  * @author lizhengle
- * @email 931708230@qq.com
+ * @email 1556708905@qq.com
  */
 @RestController
 @RequestMapping("sessions")

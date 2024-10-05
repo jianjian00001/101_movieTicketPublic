@@ -7,7 +7,7 @@ import java.util.Date;
  * 系统用户
  * 
  * @author lzl
- * @email 931708230@qq.com
+ * @email 1556708905@qq.com
  */
 public class SysUserEntity implements Serializable {
 	private static final long serialVersionUID = 1L;

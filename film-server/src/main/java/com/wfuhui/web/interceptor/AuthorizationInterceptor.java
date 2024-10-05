@@ -20,7 +20,7 @@ import com.wfuhui.web.utils.JwtUtils;
 /**
  * 权限(Token)验证
  * @author lzl
- * @email 931708230@qq.com
+ * @email 1556708905@qq.com
  */
 @Component
 public class AuthorizationInterceptor extends HandlerInterceptorAdapter {

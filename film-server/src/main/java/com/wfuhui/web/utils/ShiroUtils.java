@@ -10,7 +10,7 @@ import com.wfuhui.common.exception.RException;
  * Shiro工具类
  * 
  * @author lzl
- * @email 931708230@qq.com
+ * @email 1556708905@qq.com
  */
 public class ShiroUtils {
 

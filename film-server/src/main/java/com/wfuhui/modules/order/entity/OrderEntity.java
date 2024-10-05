@@ -11,7 +11,7 @@ import com.wfuhui.modules.member.entity.MemberEntity;
  * 订单
  * 
  * @author lzl
- * @email 931708230@qq.com
+ * @email 1556708905@qq.com
  */
 public class OrderEntity implements Serializable {
 	private static final long serialVersionUID = 1L;

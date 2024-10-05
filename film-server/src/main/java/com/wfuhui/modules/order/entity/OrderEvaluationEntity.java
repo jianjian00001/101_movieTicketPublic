@@ -9,7 +9,7 @@ import com.wfuhui.modules.member.entity.MemberEntity;
  * 订单评价
  * 
  * @author lizhengle
- * @email 931708230@qq.com
+ * @email 1556708905@qq.com
  */
 public class OrderEvaluationEntity implements Serializable {
 	private static final long serialVersionUID = 1L;

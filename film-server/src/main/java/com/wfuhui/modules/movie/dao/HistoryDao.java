@@ -11,7 +11,7 @@ import org.apache.ibatis.annotations.Mapper;
  * 浏览记录
  * 
  * @author lizhengle
- * @email 931708230@qq.com
+ * @email 1556708905@qq.com
  */
 @Mapper
 public interface HistoryDao extends BaseDao<HistoryEntity> {

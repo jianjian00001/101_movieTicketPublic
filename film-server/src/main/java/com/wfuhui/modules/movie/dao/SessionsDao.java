@@ -8,7 +8,7 @@ import org.apache.ibatis.annotations.Mapper;
  * 场次
  * 
  * @author lizhengle
- * @email 931708230@qq.com
+ * @email 1556708905@qq.com
  */
 @Mapper
 public interface SessionsDao extends BaseDao<SessionsEntity> {

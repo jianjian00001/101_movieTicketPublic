@@ -15,7 +15,7 @@ import com.wfuhui.web.interceptor.AuthorizationInterceptor;
  * MVC配置
  *
  * @author lzl
- * @email 931708230@qq.com
+ * @email 1556708905@qq.com
  */
 @Configuration
 public class WebMvcConfig implements WebMvcConfigurer {

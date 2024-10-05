@@ -9,7 +9,7 @@ import java.util.Date;
  * 座位
  * 
  * @author lizhengle
- * @email 931708230@qq.com
+ * @email 1556708905@qq.com
  */
 public class SeatEntity implements Serializable {
 	private static final long serialVersionUID = 1L;

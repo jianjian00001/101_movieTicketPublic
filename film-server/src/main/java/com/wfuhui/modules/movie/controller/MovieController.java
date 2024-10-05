@@ -22,7 +22,7 @@ import com.wfuhui.modules.movie.service.MovieService;
  * 电影
  * 
  * @author lzl
- * @email 931708230@qq.com
+ * @email 1556708905@qq.com
  * @date 2017-07-14 13:43:12
  */
 @RestController

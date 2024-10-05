@@ -9,7 +9,7 @@ import java.util.Map;
  * 查询参数
  *
  * @author lzl
- * @email 931708230@qq.com
+ * @email 1556708905@qq.com
  */
 public class Query extends LinkedHashMap<String, Object> {
 	private static final long serialVersionUID = 1L;

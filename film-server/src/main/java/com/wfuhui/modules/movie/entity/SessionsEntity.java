@@ -17,7 +17,7 @@ import com.wfuhui.modules.store.entity.StoreEntity;
  * 场次
  * 
  * @author lizhengle
- * @email 931708230@qq.com
+ * @email 1556708905@qq.com
  */
 public class SessionsEntity implements Serializable {
 	private static final long serialVersionUID = 1L;

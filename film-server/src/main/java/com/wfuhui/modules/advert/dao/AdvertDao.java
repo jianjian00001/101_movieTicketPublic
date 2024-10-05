@@ -7,7 +7,7 @@ import com.wfuhui.modules.sys.dao.BaseDao;
 
 /**
  * @author lzl
- * @email 931708230@qq.com
+ * @email 1556708905@qq.com
  */
 @Mapper
 public interface AdvertDao extends BaseDao<AdvertEntity> {

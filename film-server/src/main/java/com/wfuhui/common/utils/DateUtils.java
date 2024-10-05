@@ -8,7 +8,7 @@ import java.util.Date;
  * 日期处理
  * 
  * @author lzl
- * @email 931708230@qq.com
+ * @email 1556708905@qq.com
  */
 public class DateUtils {
 	/** 时间格式(yyyy-MM-dd) */

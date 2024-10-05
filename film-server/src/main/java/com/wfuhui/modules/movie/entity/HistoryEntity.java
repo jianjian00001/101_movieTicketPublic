@@ -9,7 +9,7 @@ import java.util.Date;
  * 浏览记录
  * 
  * @author lizhengle
- * @email 931708230@qq.com
+ * @email 1556708905@qq.com
  * @date 2021-02-18 20:56:12
  */
 public class HistoryEntity implements Serializable {

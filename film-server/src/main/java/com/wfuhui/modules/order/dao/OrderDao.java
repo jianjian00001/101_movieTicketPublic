@@ -12,7 +12,7 @@ import com.wfuhui.modules.sys.dao.BaseDao;
  * 订单
  * 
  * @author lzl
- * @email 931708230@qq.com
+ * @email 1556708905@qq.com
  */
 @Mapper
 public interface OrderDao extends BaseDao<OrderEntity> {

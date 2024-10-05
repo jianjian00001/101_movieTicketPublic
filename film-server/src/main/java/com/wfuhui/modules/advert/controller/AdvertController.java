@@ -20,7 +20,7 @@ import com.wfuhui.modules.advert.service.AdvertService;
 /**
  * 广告
  * @author lzl
- * @email 931708230@qq.com
+ * @email 1556708905@qq.com
  */
 @RestController
 @RequestMapping("/advert")

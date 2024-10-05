@@ -13,7 +13,7 @@
 [https://www.bilibili.com/video/BV1sc411o7Jb/](https://www.bilibili.com/video/BV1sc411o7Jb/)**
 
 **毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 ## 基于Java+Springboot的电影购票微信小程序带后台管理(源码+数据库)101
 
@@ -102,7 +102,7 @@
 
 5. 微信小程序打开film-miniapp项目，编译好之后就运行成功了
 
-**完整代码收费  可以加qq 931708230 或者加微信ynwwxid 咨询**
+**完整代码收费  可以加qq 1556708905 或者加微信zheng0123Long 咨询**
 
 **接毕业设计和论文**
 

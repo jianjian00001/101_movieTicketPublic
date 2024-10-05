@@ -9,7 +9,7 @@ import com.wfuhui.modules.order.entity.OrderEntity;
  * 订单
  * 
  * @author lzl
- * @email 931708230@qq.com
+ * @email 1556708905@qq.com
  */
 public interface OrderService {
 	
